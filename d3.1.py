@@ -1,4 +1,4 @@
-first_number = int(input('Введите первое число: '))
+first_number: int = int(input('Введите первое число: '))
 second_number = int(input('Введите второе число: '))
 third_do = input('Введите действие')
 if third_do == '+':
