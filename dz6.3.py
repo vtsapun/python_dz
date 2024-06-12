@@ -5,5 +5,4 @@ while x > 9:
     for digit in number:
         product *= digit
     x = product
-    print(x)
 print(x)
